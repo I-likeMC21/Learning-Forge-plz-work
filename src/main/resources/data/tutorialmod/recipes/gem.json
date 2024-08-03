@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "tutorialmod:gem_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tutorialmod:gem"
+  }
+}
